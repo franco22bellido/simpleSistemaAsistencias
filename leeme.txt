@@ -1,2 +1,4 @@
 es un simple sistema que guarda las llegadas de un usuario cuando se conecte al server.
+para usar este proyecto solo hay que configurar el archivo "keys.js" con otra base de datos,
+o bien usar sus variables de entorno.
 esta construido con nodeJs y Sql sin usar orms. Para evitar sqlInjection use las consultas con parametros
