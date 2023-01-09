@@ -1,2 +1,2 @@
 es un simple sistema que guarda las llegadas de un usuario cuando se conecte al server.
-esta construido con nodeJs y Sql sin usar orms. para evitar sqlInjection use las consultas por parametros
+esta construido con nodeJs y Sql sin usar orms. Para evitar sqlInjection use las consultas con parametros
